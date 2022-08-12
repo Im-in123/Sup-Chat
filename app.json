@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Sup",
+    "slug": "Sup",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/sup.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/sup.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "versionCode": 1,
+      "package": "com.rudyelisha77.Sup"
+    },
+    "web": {
+      "favicon": "./assets/images/sup.png"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+ @react-navigation/native
+react-native-screens
+react-native-reanimated
+react-native-gesture-handler
+react-native-safe-area-context
+react-native-community/masked-view
+react-native-elements
+
+@react-navigation/native-stack
+@react-navigation/stack
